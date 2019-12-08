@@ -4,6 +4,7 @@
 
 
 * Structural patterns
+    - Adapter Design Pattern
 
 
 * Behavioral Patterns
@@ -22,3 +23,7 @@
 #####Visitor Design Pattern
 >In object-oriented programming and software engineering, the visitor design pattern is a way of separating an algorithm from an object structure on which it operates. A practical result of this separation is the ability to add new operations to existing object structures without modifying the structures. It is one way to follow the open/closed principle.
 >In essence, the visitor allows adding new virtual functions to a family of classes, without modifying the classes. Instead, a visitor class is created that implements all of the appropriate specializations of the virtual function. The visitor takes the instance reference as input, and implements the goal through double dispatch.
+
+#####Adapter Design Pattern
+>In software engineering, the adapter pattern is a software design pattern (also known as wrapper, an alternative naming shared with the decorator pattern) that allows the interface of an existing class to be used as another interface.[1] It is often used to make existing classes work with others without modifying their source code.
+>An example is an adapter that converts the interface of a Document Object Model of an XML document into a tree structure that can be displayed.
