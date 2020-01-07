@@ -27,3 +27,6 @@
 #####Adapter Design Pattern
 >In software engineering, the adapter pattern is a software design pattern (also known as wrapper, an alternative naming shared with the decorator pattern) that allows the interface of an existing class to be used as another interface.[1] It is often used to make existing classes work with others without modifying their source code.
 >An example is an adapter that converts the interface of a Document Object Model of an XML document into a tree structure that can be displayed.
+
+#####Mediator Design Pattern
+>In software engineering, the mediator pattern defines an object that encapsulates how a set of objects interact. This pattern is considered to be a behavioral pattern due to the way it can alter the program's running behavior.
